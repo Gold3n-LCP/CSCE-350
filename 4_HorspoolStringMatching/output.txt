@@ -1,0 +1,3 @@
+Index: 10
+
+Execution Time: 0.00268ms
