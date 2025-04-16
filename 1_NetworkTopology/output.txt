@@ -1,0 +1,2 @@
+Network Type: Fully Connected Mesh
+Execution Time: 0.003112
