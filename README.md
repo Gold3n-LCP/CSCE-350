@@ -42,6 +42,21 @@ g++ Horspool.cc -o hor
 g++ Floyd.cc -o floyd
 <br>
 ./floyd
+
+**BONUS Empirical Analysis of Algorithms**<br>
+g++ quickSortInputSize.cc -o inputsize
+<br>
+./inputsize
+
+**BONUS Boyer Moore**<br>
+g++ boyerMoore.cc -o bm
+<br>
+./bm
+
+**BONUS Heap Sort**<br>
+g++ Heapsort.cc -o heapsort
+<br>
+./heapsort
 <br><br><br>
 
 
@@ -90,4 +105,20 @@ The file contains the distance matrix of floats separated by spaces. Use a reall
 0.0 3.2 999.9 7.5<br>
 8.1 0.0 2.4 999.9<br>
 5.6 999.9 0.0 1.3<br>
-2.2 999.9 999.9 0.0<br>
+2.2 999.9 999.9 0.0<br><br>
+**BONUS Boyer Moore**
+<br>
+The first line contains the pattern, the second line contains the text. **CANNOT** use upper case letters. 
+<br>
+ex)<br>
+baobab<br>
+bess knew about baobabs
+<br><br>
+**BONUS Heap Sort**
+<br>
+The first line contains the total number of keys, and the second line contains the unsorted integers separated by spaces. 
+<br>
+ex)<br>
+10<br>
+0 7 4 1 9 6 2 8 5 3
+<br><br>
