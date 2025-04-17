@@ -1,0 +1,2 @@
+Index: 16
+Execution Time: 0.057439ms

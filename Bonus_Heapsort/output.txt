@@ -1,0 +1,4 @@
+Resulted Heap:
+9 8 6 5 7 4 2 1 0 3 
+Heapsort result:
+9 8 7 6 5 4 3 2 1 0 
